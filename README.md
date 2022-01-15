@@ -1,7 +1,9 @@
+## @Author : Saurabh 
+
 # Random_Forest_Classification
 Implementation of Random Forest with and without Hyper-tuning
 
-for all parameters of Random Forest Classifier check out : https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+For Detail All parameters of Random Forest Classifier check out : https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
 1. Implementation of Random Forest classifier without hyper-parameter-tuning 
 
@@ -9,4 +11,4 @@ for all parameters of Random Forest Classifier check out : https://scikit-learn.
 
 3. Implementation of Random Forest Classifier with hyper-parameter-tuning using GridSearch Cv
 
--------------
+-------------xxxxxx-------------------
